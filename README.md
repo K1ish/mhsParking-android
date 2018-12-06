@@ -1,2 +1,3 @@
 # mhsParking-android
 Android edition for MHS parking program.
+The mhs parking pass project is our attempt to make the parking paras life much easier and keep our parking lots safe and accountable. The software uses a technology titled ALPR (Automated license plate reading) which is commonly used by things like speed cameras. We can use this tech to eliminate the time it takes for a para to look through a clipboard list of license plates and do the search automatically. the paras simply pull out an android device, tap a button, and it will read the license plate and return if it is a registered license plate or not.
